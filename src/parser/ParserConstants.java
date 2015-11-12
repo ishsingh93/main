@@ -1,5 +1,5 @@
 /*
- * @@author Jeston Teo A0121319R
+ * @@author A0121319R
  * 
  * Reused some constants from T11-3J
  */
@@ -39,12 +39,6 @@ public class ParserConstants {
 	// Indexes
 	protected static final int INDEX_FIRST = 0;
 	protected static final int INDEX_SECOND = 1;
-
-	// Integers
-	protected static final int INT_ZERO = 0;
-	protected static final int INT_ONE = 1;
-	protected static final int INT_NEG_ONE = -1;
-	protected static final int INT_TWO = 2;
 
 	// REGEX
 	protected static final String REGEX_WHITESPACES = "[\\s,]+";
